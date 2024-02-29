@@ -1,26 +1,20 @@
 # **CURRICULUM VITAE**
-## **Samuel M. Owens**
-### **PhD Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
-- _Integrative Ecology Lab_ 
-- Department of Biology | Center for Biodiversity
+## **Alex Thomer**
+### **Undergraduate Student**
+[Website](https://sites.temple.edu/smowens/) | [Email](mailto:alex.thomer@temple.edu)
+
 - Temple University
 
 
 ## Education
-**Temple University | PhD Biology**
+**Temple University | BSc Biology**
 
-*Spring 2022 - Current*
-- Graduate Advisor: Matthew Helmus, PhD
-- Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
+*Fall 2020 - Current*
+- Undergraduate: 
 
 
-**Liberty University | BS Zoology, minor in Chemistry**
 
-*Fall 2015 - Spring 2019*
-- Undergraduate Advisor: Norman Reichenbach, PhD
-- graduate of the LU Eagle Scholars Leadership Program
-- Academic memberships: NSCS National Honor Society, Biology Club, Scientific Research Society
+
 
 
 ## Research Projects
@@ -94,30 +88,13 @@ Research Grant award to support research on the effects of low-level Atrazine ex
 
 ## Work Experience																			
 
-**Laboratory Manager** 
+**Lab Tech** 
 
-*Temple University Dept of Biology | July – November 2022*
--	Lead a research project funded by California Department of Food and Agriculture
--	Mentored eight undergraduate students in California DFA project
--	Produced machine learning models and figures for a grant report filed to California DFA
--	Oversaw administrative lab functions including conducting interviews
+*Opertech Bio | April 2023 – November 2022*
+-	
+-	
+-	
+-	
 
-**Laboratory Assistant** 
 
-*Temple University Dept of Genetics / Biochemistry | Feb 2020 – July 2022*
--	Independently planned and executed experiments involving SNP genotyping and Sanger sequencing 
--	Managed workflow and project assignments for temporary full-time workers
--	Worked in a high-throughput COVID-19 CLIA testing lab using an automated rt-PCR test
--	Performed tests by-hand. Helped to upscale and automate high throughput testing as part of an effort to execute Temple University COVID testing requirements for students
--	CLIA validation of clinical TTR test- Genotyped blood samples to screen for SNP causing inherited genetic disorders
--	Received, processed, and stored bariatric/neurology samples for a CLIA Biobank
--	Oversaw zebrafish husbandry for lab, performed maintenance on Aquaneering aquatic housing system
-
-**Instructor of Radio Telemetry** 
-
-*Liberty University Dept of Biology and Chemistry | Fall 2017 - Spring 2019*
--	Worked as TA of Ecology and main instructor for students in telemetry and mark-recapture techniques
--	Led mark-recapture study on urban population of eastern box turtle (T. c. carolina)
--	Used radio telemetry used to track turtles and determine home-range extent
--	Trained successor to take over position
 
